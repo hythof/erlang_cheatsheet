@@ -12,7 +12,7 @@ Erlang言語のチートシート。
 
 ## 値
 
-``erlang
+```erlang
 1                        %% int
 1.1                      %% float
 [1, 2]                   %% list
@@ -44,7 +44,7 @@ Two = One + One. %% 2
 
 ## 式
 
-``erlang
+```erlang
 3         = 1 + 2          .
 1         = 2 - 1          .
 6         = 2 * 3          .
